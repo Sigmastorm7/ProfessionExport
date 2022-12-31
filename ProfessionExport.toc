@@ -1,0 +1,8 @@
+## Interface: 100200
+## Title: Profession Export
+## Author: Siggy
+## Version: 1.0
+## SavedVariablesPerCharacter: ProfessionInfo
+
+# Include
+ProfessionExport.lua
